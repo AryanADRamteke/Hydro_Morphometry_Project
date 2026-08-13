@@ -1,0 +1,10 @@
+=============================================
+     HYDRO-MORPHOMETRIC SUMMARY REPORT
+=============================================
+Minimum Elevation : -28.00 m
+Maximum Elevation : 1596.00 m
+Mean Elevation    : 405.70 m
+Total Relief      : 1624.00 m
+Hypsometric Int.  : 0.267
+Average Slope     : 8.07°
+=============================================
