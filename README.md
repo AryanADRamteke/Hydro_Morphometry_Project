@@ -42,5 +42,5 @@ An automated, lightweight Python workflow to perform quantitative hydro-geomorph
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Hydro-Morphometry-Analysis.git](https://github.com/YOUR_USERNAME/Hydro-Morphometry-Analysis.git)
+   git clone [https://github.com/YOUR_USERNAME/Hydro-Morphometry-Analysis.git](https://github.com/AryanADRamteke/Hydro-Morphometry-Analysis.git)
    cd Hydro-Morphometry-Analysis
